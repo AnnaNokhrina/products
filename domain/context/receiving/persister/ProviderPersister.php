@@ -3,7 +3,7 @@
 namespace persister;
 
 use ProviderCreateDTO;
-use ProviderId;
+use vo\ProviderId;
 
 /**
  * Персистер поставщика

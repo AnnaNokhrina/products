@@ -1,9 +1,11 @@
 <?php
 
+namespace vo;
 /**
  * Инициатор операции хранения
  */
-enum Actor {
+enum Actor
+{
 
     /** Поставщик */
     case PROVIDER;

@@ -3,7 +3,7 @@
 /**
  * Контроллер загрузки документов
  */
-class ParserDocController
+class ParserDocInvoiceController
 {
     public function add()
     {

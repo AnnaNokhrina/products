@@ -1,6 +1,7 @@
 <?php
 
 use dto\StorageRDTO;
+use vo\StorageId;
 
 /**
  * Интерфейс репозитория товара

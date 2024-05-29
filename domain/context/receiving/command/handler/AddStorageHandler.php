@@ -1,6 +1,7 @@
 <?php
 
 use persister\StoragePersister;
+use vo\StorageId;
 
 /**
  * Обработчик команды добавления операции хранения

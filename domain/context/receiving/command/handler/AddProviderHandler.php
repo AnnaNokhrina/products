@@ -1,6 +1,7 @@
 <?php
 
 use persister\ProviderPersister;
+use vo\ProviderId;
 
 /**
  * Обработчик команды добавления поставщика

@@ -1,6 +1,7 @@
 <?php
 
 use persister\ProductPersister;
+use vo\ProductId;
 
 /**
  * Обработчик команды добавления товара

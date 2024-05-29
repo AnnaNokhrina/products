@@ -3,7 +3,7 @@
 namespace persister;
 
 use StorageCreateDTO;
-use StorageId;
+use vo\StorageId;
 
 /**
  * Персистер поставщика

@@ -1,6 +1,8 @@
 <?php
 
-class StorageId {
+namespace vo;
+class StorageId
+{
     public function __construct(int $storageId)
     {
     }

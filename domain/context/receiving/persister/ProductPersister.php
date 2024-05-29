@@ -3,7 +3,7 @@
 namespace persister;
 
 use ProductCreateDTO;
-use ProductId;
+use vo\ProductId;
 
 /**
  * Персистер товара

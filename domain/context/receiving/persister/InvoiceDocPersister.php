@@ -3,7 +3,7 @@
 namespace persister;
 
 use InvoiceDocCreateDTO;
-use InvoiceDocId;
+use vo\InvoiceDocId;
 
 /**
  * Персистер документа счета-фактуры

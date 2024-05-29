@@ -1,5 +1,10 @@
 <?php
 
+use vo\Actor;
+use vo\ProductId;
+use vo\StockId;
+use vo\StorageId;
+
 /**
  * Сущность операции хранения
  */
