@@ -1,7 +1,7 @@
 <?php
-class ProviderId {
 
-    public function __construct(int $productId)
+class ProviderId {
+    public function __construct(int $providerId)
     {
     }
 }

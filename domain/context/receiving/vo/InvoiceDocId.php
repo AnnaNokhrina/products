@@ -1,6 +1,6 @@
 <?php
-class InvoiceDocId {
 
+class InvoiceDocId {
     public function __construct(int $invoiceDocId)
     {
     }

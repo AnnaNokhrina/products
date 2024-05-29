@@ -1,6 +1,6 @@
 <?php
-class StorageId {
 
+class StorageId {
     public function __construct(int $storageId)
     {
     }

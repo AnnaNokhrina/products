@@ -1,5 +1,7 @@
 <?php
-enum StockId {
-    case PROVIDER;
-    case STOCK;
+
+class StockId {
+    public function __construct(int $stockId)
+    {
+    }
 }

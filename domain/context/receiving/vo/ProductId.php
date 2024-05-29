@@ -1,6 +1,6 @@
 <?php
-class ProductId {
 
+class ProductId {
     public function __construct(int $productId)
     {
     }

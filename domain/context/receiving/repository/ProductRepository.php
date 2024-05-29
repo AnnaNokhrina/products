@@ -1,9 +1,9 @@
 <?php
 
-use dto\ProductRDTO;
-
+/**
+ * Интерфейс репозитория товара
+ */
 interface ProductRepository
 {
    public function get(ProductId $id): ?ProductRDTO;
-   public function all();
 }

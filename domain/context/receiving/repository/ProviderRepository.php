@@ -1,7 +1,9 @@
 <?php
 
+/**
+ * Интерфейс репозитория товара
+ */
 interface ProviderRepository
 {
-   public function get();
-   public function all();
+    public function get(ProviderId $id): ProviderRDTO;
 }
